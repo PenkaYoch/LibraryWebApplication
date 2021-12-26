@@ -1,0 +1,37 @@
+﻿@{
+    ViewBag.Title = "Home Page";
+}
+
+<div class="jumbotron" style="background-color:#130d07; color: white">
+    <h2>Онлайн библиотека за книги</h2>
+    <p class="lead">Тема на седмицата:</p>
+    <h1>            Астрономия</h1>
+    <p><a href="/APOD" style="background-color:#130d07;" class="btn btn-primary btn-lg">Астрономическа снимка на деня от NASA &raquo;</a></p>
+</div>
+<div class="row">
+    <div class="col-md-4" style="color: white">
+        <h2>Книги</h2>
+        <p>
+            Можете да разгледате книгите в нашата библиотека без да се регистрирате.
+        </p>
+        @*<p><a class="btn btn-default" href="https://go.microsoft.com/fwlink/?LinkId=301865">Learn more &raquo;</a></p>*@
+    </div>
+    <div class="col-md-4" style="color: white">
+        <h2>Създаване и редактиране</h2>
+        <p>Ако се регистрирате можете да редактирате и създавате нови книги.</p>
+        @*<p><a class="btn btn-default" href="https://go.microsoft.com/fwlink/?LinkId=301866">Learn more &raquo;</a></p>*@
+    </div>
+    <div class="col-md-4" style="color: white">
+        <h2>Тема на седмицата: Астрономия</h2>
+        <p>Можете да видите астрономическа снимка на деня, определена от NASA, без регистрация в приложението.</p>
+        @*<p><a class="btn btn-default" href="https://go.microsoft.com/fwlink/?LinkId=301867">Learn more &raquo;</a></p>*@
+    </div>
+</div>
+<h1>
+    <img src=@ViewData["url"] alt="Sample Photo" />
+</h1>
+<style>
+    body {
+        background-image:url('@ViewData["url"]');
+    }
+</style>

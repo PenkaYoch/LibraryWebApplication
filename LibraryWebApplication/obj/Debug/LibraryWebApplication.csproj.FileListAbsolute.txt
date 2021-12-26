@@ -1,0 +1,1086 @@
+C:\Users\Penka\Desktop\LibraryWebApplication\LibraryWebApplication\obj\Debug\LibraryWebApplication.csproj.CoreCompileInputs.cache
+C:\Users\Penka\Desktop\LibraryWebApplication\LibraryWebApplication\bin\LibraryWebApplication.dll.config
+C:\Users\Penka\Desktop\LibraryWebApplication\LibraryWebApplication\bin\LibraryWebApplication.dll
+C:\Users\Penka\Desktop\LibraryWebApplication\LibraryWebApplication\bin\LibraryWebApplication.pdb
+C:\Users\Penka\Desktop\LibraryWebApplication\LibraryWebApplication\bin\roslyn\csc.exe
+C:\Users\Penka\Desktop\LibraryWebApplication\LibraryWebApplication\bin\roslyn\csc.exe.config
+C:\Users\Penka\Desktop\LibraryWebApplication\LibraryWebApplication\bin\roslyn\csc.rsp
+C:\Users\Penka\Desktop\LibraryWebApplication\LibraryWebApplication\bin\roslyn\csi.exe
+C:\Users\Penka\Desktop\LibraryWebApplication\LibraryWebApplication\bin\roslyn\csi.exe.config
+C:\Users\Penka\Desktop\LibraryWebApplication\LibraryWebApplication\bin\roslyn\csi.rsp
+C:\Users\Penka\Desktop\LibraryWebApplication\LibraryWebApplication\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Penka\Desktop\LibraryWebApplication\LibraryWebApplication\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Penka\Desktop\LibraryWebApplication\LibraryWebApplication\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Penka\Desktop\LibraryWebApplication\LibraryWebApplication\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Penka\Desktop\LibraryWebApplication\LibraryWebApplication\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Penka\Desktop\LibraryWebApplication\LibraryWebApplication\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Penka\Desktop\LibraryWebApplication\LibraryWebApplication\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Penka\Desktop\LibraryWebApplication\LibraryWebApplication\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Penka\Desktop\LibraryWebApplication\LibraryWebApplication\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Penka\Desktop\LibraryWebApplication\LibraryWebApplication\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Penka\Desktop\LibraryWebApplication\LibraryWebApplication\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Penka\Desktop\LibraryWebApplication\LibraryWebApplication\bin\roslyn\System.AppContext.dll
+C:\Users\Penka\Desktop\LibraryWebApplication\LibraryWebApplication\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Penka\Desktop\LibraryWebApplication\LibraryWebApplication\bin\roslyn\System.Console.dll
+C:\Users\Penka\Desktop\LibraryWebApplication\LibraryWebApplication\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Penka\Desktop\LibraryWebApplication\LibraryWebApplication\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Penka\Desktop\LibraryWebApplication\LibraryWebApplication\bin\roslyn\System.IO.Compression.dll
+C:\Users\Penka\Desktop\LibraryWebApplication\LibraryWebApplication\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Penka\Desktop\LibraryWebApplication\LibraryWebApplication\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Penka\Desktop\LibraryWebApplication\LibraryWebApplication\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Penka\Desktop\LibraryWebApplication\LibraryWebApplication\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Penka\Desktop\LibraryWebApplication\LibraryWebApplication\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Penka\Desktop\LibraryWebApplication\LibraryWebApplication\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Penka\Desktop\LibraryWebApplication\LibraryWebApplication\bin\roslyn\System.Security.Claims.dll
+C:\Users\Penka\Desktop\LibraryWebApplication\LibraryWebApplication\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Penka\Desktop\LibraryWebApplication\LibraryWebApplication\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Penka\Desktop\LibraryWebApplication\LibraryWebApplication\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Penka\Desktop\LibraryWebApplication\LibraryWebApplication\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Penka\Desktop\LibraryWebApplication\LibraryWebApplication\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Penka\Desktop\LibraryWebApplication\LibraryWebApplication\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Penka\Desktop\LibraryWebApplication\LibraryWebApplication\bin\roslyn\System.ValueTuple.dll
+C:\Users\Penka\Desktop\LibraryWebApplication\LibraryWebApplication\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Penka\Desktop\LibraryWebApplication\LibraryWebApplication\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Penka\Desktop\LibraryWebApplication\LibraryWebApplication\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Penka\Desktop\LibraryWebApplication\LibraryWebApplication\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Penka\Desktop\LibraryWebApplication\LibraryWebApplication\bin\roslyn\vbc.exe
+C:\Users\Penka\Desktop\LibraryWebApplication\LibraryWebApplication\bin\roslyn\vbc.exe.config
+C:\Users\Penka\Desktop\LibraryWebApplication\LibraryWebApplication\bin\roslyn\vbc.rsp
+C:\Users\Penka\Desktop\LibraryWebApplication\LibraryWebApplication\bin\roslyn\VBCSCompiler.exe
+C:\Users\Penka\Desktop\LibraryWebApplication\LibraryWebApplication\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Penka\Desktop\LibraryWebApplication\LibraryWebApplication\bin\Antlr3.Runtime.dll
+C:\Users\Penka\Desktop\LibraryWebApplication\LibraryWebApplication\bin\EntityFramework.dll
+C:\Users\Penka\Desktop\LibraryWebApplication\LibraryWebApplication\bin\EntityFramework.SqlServer.dll
+C:\Users\Penka\Desktop\LibraryWebApplication\LibraryWebApplication\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Penka\Desktop\LibraryWebApplication\LibraryWebApplication\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Penka\Desktop\LibraryWebApplication\LibraryWebApplication\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Penka\Desktop\LibraryWebApplication\LibraryWebApplication\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Penka\Desktop\LibraryWebApplication\LibraryWebApplication\bin\Microsoft.Owin.dll
+C:\Users\Penka\Desktop\LibraryWebApplication\LibraryWebApplication\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Penka\Desktop\LibraryWebApplication\LibraryWebApplication\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Penka\Desktop\LibraryWebApplication\LibraryWebApplication\bin\Microsoft.Owin.Security.dll
+C:\Users\Penka\Desktop\LibraryWebApplication\LibraryWebApplication\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Penka\Desktop\LibraryWebApplication\LibraryWebApplication\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Penka\Desktop\LibraryWebApplication\LibraryWebApplication\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Penka\Desktop\LibraryWebApplication\LibraryWebApplication\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Penka\Desktop\LibraryWebApplication\LibraryWebApplication\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Penka\Desktop\LibraryWebApplication\LibraryWebApplication\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Penka\Desktop\LibraryWebApplication\LibraryWebApplication\bin\Newtonsoft.Json.dll
+C:\Users\Penka\Desktop\LibraryWebApplication\LibraryWebApplication\bin\Owin.dll
+C:\Users\Penka\Desktop\LibraryWebApplication\LibraryWebApplication\bin\System.Web.Helpers.dll
+C:\Users\Penka\Desktop\LibraryWebApplication\LibraryWebApplication\bin\System.Web.Mvc.dll
+C:\Users\Penka\Desktop\LibraryWebApplication\LibraryWebApplication\bin\System.Web.Optimization.dll
+C:\Users\Penka\Desktop\LibraryWebApplication\LibraryWebApplication\bin\System.Web.Razor.dll
+C:\Users\Penka\Desktop\LibraryWebApplication\LibraryWebApplication\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Penka\Desktop\LibraryWebApplication\LibraryWebApplication\bin\System.Web.WebPages.dll
+C:\Users\Penka\Desktop\LibraryWebApplication\LibraryWebApplication\bin\System.Web.WebPages.Razor.dll
+C:\Users\Penka\Desktop\LibraryWebApplication\LibraryWebApplication\bin\WebGrease.dll
+C:\Users\Penka\Desktop\LibraryWebApplication\LibraryWebApplication\bin\System.Web.Helpers.xml
+C:\Users\Penka\Desktop\LibraryWebApplication\LibraryWebApplication\bin\System.Web.Mvc.xml
+C:\Users\Penka\Desktop\LibraryWebApplication\LibraryWebApplication\bin\System.Web.Optimization.xml
+C:\Users\Penka\Desktop\LibraryWebApplication\LibraryWebApplication\bin\System.Web.Razor.xml
+C:\Users\Penka\Desktop\LibraryWebApplication\LibraryWebApplication\bin\System.Web.WebPages.xml
+C:\Users\Penka\Desktop\LibraryWebApplication\LibraryWebApplication\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Penka\Desktop\LibraryWebApplication\LibraryWebApplication\bin\System.Web.WebPages.Razor.xml
+C:\Users\Penka\Desktop\LibraryWebApplication\LibraryWebApplication\bin\Newtonsoft.Json.xml
+C:\Users\Penka\Desktop\LibraryWebApplication\LibraryWebApplication\bin\Antlr3.Runtime.pdb
+C:\Users\Penka\Desktop\LibraryWebApplication\LibraryWebApplication\bin\EntityFramework.xml
+C:\Users\Penka\Desktop\LibraryWebApplication\LibraryWebApplication\bin\EntityFramework.SqlServer.xml
+C:\Users\Penka\Desktop\LibraryWebApplication\LibraryWebApplication\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Penka\Desktop\LibraryWebApplication\LibraryWebApplication\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Penka\Desktop\LibraryWebApplication\LibraryWebApplication\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Penka\Desktop\LibraryWebApplication\LibraryWebApplication\bin\Microsoft.Owin.xml
+C:\Users\Penka\Desktop\LibraryWebApplication\LibraryWebApplication\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Penka\Desktop\LibraryWebApplication\LibraryWebApplication\bin\Microsoft.Owin.Security.xml
+C:\Users\Penka\Desktop\LibraryWebApplication\LibraryWebApplication\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Penka\Desktop\LibraryWebApplication\LibraryWebApplication\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Penka\Desktop\LibraryWebApplication\LibraryWebApplication\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Penka\Desktop\LibraryWebApplication\LibraryWebApplication\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Penka\Desktop\LibraryWebApplication\LibraryWebApplication\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Penka\Desktop\LibraryWebApplication\LibraryWebApplication\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Penka\Desktop\LibraryWebApplication\LibraryWebApplication\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Penka\Desktop\LibraryWebApplication\LibraryWebApplication\obj\Debug\LibraryWebApplication.csproj.CopyComplete
+C:\Users\Penka\Desktop\LibraryWebApplication\LibraryWebApplication\obj\Debug\LibraryWebApplication.dll
+C:\Users\Penka\Desktop\LibraryWebApplication\LibraryWebApplication\obj\Debug\LibraryWebApplication.pdb
+C:\Users\Penka\Desktop\LibraryWebApplication\LibraryWebApplication\obj\Debug\LibraryWebApplication.Migrations.InitialMigration.resources
+C:\Users\Penka\Desktop\LibraryWebApplication\LibraryWebApplication\obj\Debug\LibraryWebApplication.csproj.GenerateResource.cache
+C:\Users\Penka\Desktop\LibraryWebApplication\LibraryWebApplication\obj\Debug\LibraryWebApplication.Migrations.InitialMigration1.resources
+C:\Users\Penka\Desktop\LibraryWebApplication\LibraryWebApplication\obj\Debug\LibraryWebApplication.Migrations.InitialMigration2.resources
+C:\Users\Penka\Desktop\LibraryWebApplication\LibraryWebApplication\obj\Debug\LibraryWebApplication.Migrations.InitialMigration3.resources
+C:\Users\Penka\Desktop\LibraryWebApplication\LibraryWebApplication\obj\Debug\LibraryWebApplication.Migrations.InitialMigration4.resources
+C:\Users\Penka\Desktop\LibraryWebApplication\LibraryWebApplication\obj\Debug\LibraryWebApplication.csprojAssemblyReference.cache
+C:\Users\Penka\Desktop\LibraryWebApplication\LibraryWebApplication\bin\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Penka\Desktop\LibraryWebApplication\LibraryWebApplication\bin\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Penka\Desktop\LibraryWebApplication\LibraryWebApplication\bin\Microsoft.Win32.Primitives.dll
+C:\Users\Penka\Desktop\LibraryWebApplication\LibraryWebApplication\bin\netstandard.dll
+C:\Users\Penka\Desktop\LibraryWebApplication\LibraryWebApplication\bin\System.AppContext.dll
+C:\Users\Penka\Desktop\LibraryWebApplication\LibraryWebApplication\bin\System.Collections.Concurrent.dll
+C:\Users\Penka\Desktop\LibraryWebApplication\LibraryWebApplication\bin\System.Collections.dll
+C:\Users\Penka\Desktop\LibraryWebApplication\LibraryWebApplication\bin\System.Collections.NonGeneric.dll
+C:\Users\Penka\Desktop\LibraryWebApplication\LibraryWebApplication\bin\System.Collections.Specialized.dll
+C:\Users\Penka\Desktop\LibraryWebApplication\LibraryWebApplication\bin\System.ComponentModel.dll
+C:\Users\Penka\Desktop\LibraryWebApplication\LibraryWebApplication\bin\System.ComponentModel.EventBasedAsync.dll
+C:\Users\Penka\Desktop\LibraryWebApplication\LibraryWebApplication\bin\System.ComponentModel.Primitives.dll
+C:\Users\Penka\Desktop\LibraryWebApplication\LibraryWebApplication\bin\System.ComponentModel.TypeConverter.dll
+C:\Users\Penka\Desktop\LibraryWebApplication\LibraryWebApplication\bin\System.Console.dll
+C:\Users\Penka\Desktop\LibraryWebApplication\LibraryWebApplication\bin\System.Data.Common.dll
+C:\Users\Penka\Desktop\LibraryWebApplication\LibraryWebApplication\bin\System.Diagnostics.Contracts.dll
+C:\Users\Penka\Desktop\LibraryWebApplication\LibraryWebApplication\bin\System.Diagnostics.Debug.dll
+C:\Users\Penka\Desktop\LibraryWebApplication\LibraryWebApplication\bin\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Penka\Desktop\LibraryWebApplication\LibraryWebApplication\bin\System.Diagnostics.Process.dll
+C:\Users\Penka\Desktop\LibraryWebApplication\LibraryWebApplication\bin\System.Diagnostics.StackTrace.dll
+C:\Users\Penka\Desktop\LibraryWebApplication\LibraryWebApplication\bin\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\Penka\Desktop\LibraryWebApplication\LibraryWebApplication\bin\System.Diagnostics.Tools.dll
+C:\Users\Penka\Desktop\LibraryWebApplication\LibraryWebApplication\bin\System.Diagnostics.TraceSource.dll
+C:\Users\Penka\Desktop\LibraryWebApplication\LibraryWebApplication\bin\System.Diagnostics.Tracing.dll
+C:\Users\Penka\Desktop\LibraryWebApplication\LibraryWebApplication\bin\System.Drawing.Primitives.dll
+C:\Users\Penka\Desktop\LibraryWebApplication\LibraryWebApplication\bin\System.Dynamic.Runtime.dll
+C:\Users\Penka\Desktop\LibraryWebApplication\LibraryWebApplication\bin\System.Globalization.Calendars.dll
+C:\Users\Penka\Desktop\LibraryWebApplication\LibraryWebApplication\bin\System.Globalization.dll
+C:\Users\Penka\Desktop\LibraryWebApplication\LibraryWebApplication\bin\System.Globalization.Extensions.dll
+C:\Users\Penka\Desktop\LibraryWebApplication\LibraryWebApplication\bin\System.IO.Compression.dll
+C:\Users\Penka\Desktop\LibraryWebApplication\LibraryWebApplication\bin\System.IO.Compression.ZipFile.dll
+C:\Users\Penka\Desktop\LibraryWebApplication\LibraryWebApplication\bin\System.IO.dll
+C:\Users\Penka\Desktop\LibraryWebApplication\LibraryWebApplication\bin\System.IO.FileSystem.dll
+C:\Users\Penka\Desktop\LibraryWebApplication\LibraryWebApplication\bin\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Penka\Desktop\LibraryWebApplication\LibraryWebApplication\bin\System.IO.FileSystem.Primitives.dll
+C:\Users\Penka\Desktop\LibraryWebApplication\LibraryWebApplication\bin\System.IO.FileSystem.Watcher.dll
+C:\Users\Penka\Desktop\LibraryWebApplication\LibraryWebApplication\bin\System.IO.IsolatedStorage.dll
+C:\Users\Penka\Desktop\LibraryWebApplication\LibraryWebApplication\bin\System.IO.MemoryMappedFiles.dll
+C:\Users\Penka\Desktop\LibraryWebApplication\LibraryWebApplication\bin\System.IO.Pipes.dll
+C:\Users\Penka\Desktop\LibraryWebApplication\LibraryWebApplication\bin\System.IO.UnmanagedMemoryStream.dll
+C:\Users\Penka\Desktop\LibraryWebApplication\LibraryWebApplication\bin\System.Linq.dll
+C:\Users\Penka\Desktop\LibraryWebApplication\LibraryWebApplication\bin\System.Linq.Expressions.dll
+C:\Users\Penka\Desktop\LibraryWebApplication\LibraryWebApplication\bin\System.Linq.Parallel.dll
+C:\Users\Penka\Desktop\LibraryWebApplication\LibraryWebApplication\bin\System.Linq.Queryable.dll
+C:\Users\Penka\Desktop\LibraryWebApplication\LibraryWebApplication\bin\System.Net.Http.dll
+C:\Users\Penka\Desktop\LibraryWebApplication\LibraryWebApplication\bin\System.Net.NameResolution.dll
+C:\Users\Penka\Desktop\LibraryWebApplication\LibraryWebApplication\bin\System.Net.NetworkInformation.dll
+C:\Users\Penka\Desktop\LibraryWebApplication\LibraryWebApplication\bin\System.Net.Ping.dll
+C:\Users\Penka\Desktop\LibraryWebApplication\LibraryWebApplication\bin\System.Net.Primitives.dll
+C:\Users\Penka\Desktop\LibraryWebApplication\LibraryWebApplication\bin\System.Net.Requests.dll
+C:\Users\Penka\Desktop\LibraryWebApplication\LibraryWebApplication\bin\System.Net.Security.dll
+C:\Users\Penka\Desktop\LibraryWebApplication\LibraryWebApplication\bin\System.Net.Sockets.dll
+C:\Users\Penka\Desktop\LibraryWebApplication\LibraryWebApplication\bin\System.Net.WebHeaderCollection.dll
+C:\Users\Penka\Desktop\LibraryWebApplication\LibraryWebApplication\bin\System.Net.WebSockets.Client.dll
+C:\Users\Penka\Desktop\LibraryWebApplication\LibraryWebApplication\bin\System.Net.WebSockets.dll
+C:\Users\Penka\Desktop\LibraryWebApplication\LibraryWebApplication\bin\System.ObjectModel.dll
+C:\Users\Penka\Desktop\LibraryWebApplication\LibraryWebApplication\bin\System.Reflection.dll
+C:\Users\Penka\Desktop\LibraryWebApplication\LibraryWebApplication\bin\System.Reflection.Extensions.dll
+C:\Users\Penka\Desktop\LibraryWebApplication\LibraryWebApplication\bin\System.Reflection.Primitives.dll
+C:\Users\Penka\Desktop\LibraryWebApplication\LibraryWebApplication\bin\System.Resources.Reader.dll
+C:\Users\Penka\Desktop\LibraryWebApplication\LibraryWebApplication\bin\System.Resources.ResourceManager.dll
+C:\Users\Penka\Desktop\LibraryWebApplication\LibraryWebApplication\bin\System.Resources.Writer.dll
+C:\Users\Penka\Desktop\LibraryWebApplication\LibraryWebApplication\bin\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\Penka\Desktop\LibraryWebApplication\LibraryWebApplication\bin\System.Runtime.dll
+C:\Users\Penka\Desktop\LibraryWebApplication\LibraryWebApplication\bin\System.Runtime.Extensions.dll
+C:\Users\Penka\Desktop\LibraryWebApplication\LibraryWebApplication\bin\System.Runtime.Handles.dll
+C:\Users\Penka\Desktop\LibraryWebApplication\LibraryWebApplication\bin\System.Runtime.InteropServices.dll
+C:\Users\Penka\Desktop\LibraryWebApplication\LibraryWebApplication\bin\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Penka\Desktop\LibraryWebApplication\LibraryWebApplication\bin\System.Runtime.Numerics.dll
+C:\Users\Penka\Desktop\LibraryWebApplication\LibraryWebApplication\bin\System.Runtime.Serialization.Formatters.dll
+C:\Users\Penka\Desktop\LibraryWebApplication\LibraryWebApplication\bin\System.Runtime.Serialization.Json.dll
+C:\Users\Penka\Desktop\LibraryWebApplication\LibraryWebApplication\bin\System.Runtime.Serialization.Primitives.dll
+C:\Users\Penka\Desktop\LibraryWebApplication\LibraryWebApplication\bin\System.Runtime.Serialization.Xml.dll
+C:\Users\Penka\Desktop\LibraryWebApplication\LibraryWebApplication\bin\System.Security.Claims.dll
+C:\Users\Penka\Desktop\LibraryWebApplication\LibraryWebApplication\bin\System.Security.Cryptography.Algorithms.dll
+C:\Users\Penka\Desktop\LibraryWebApplication\LibraryWebApplication\bin\System.Security.Cryptography.Csp.dll
+C:\Users\Penka\Desktop\LibraryWebApplication\LibraryWebApplication\bin\System.Security.Cryptography.Encoding.dll
+C:\Users\Penka\Desktop\LibraryWebApplication\LibraryWebApplication\bin\System.Security.Cryptography.Primitives.dll
+C:\Users\Penka\Desktop\LibraryWebApplication\LibraryWebApplication\bin\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Penka\Desktop\LibraryWebApplication\LibraryWebApplication\bin\System.Security.Principal.dll
+C:\Users\Penka\Desktop\LibraryWebApplication\LibraryWebApplication\bin\System.Security.SecureString.dll
+C:\Users\Penka\Desktop\LibraryWebApplication\LibraryWebApplication\bin\System.Text.Encoding.dll
+C:\Users\Penka\Desktop\LibraryWebApplication\LibraryWebApplication\bin\System.Text.Encoding.Extensions.dll
+C:\Users\Penka\Desktop\LibraryWebApplication\LibraryWebApplication\bin\System.Text.RegularExpressions.dll
+C:\Users\Penka\Desktop\LibraryWebApplication\LibraryWebApplication\bin\System.Threading.dll
+C:\Users\Penka\Desktop\LibraryWebApplication\LibraryWebApplication\bin\System.Threading.Overlapped.dll
+C:\Users\Penka\Desktop\LibraryWebApplication\LibraryWebApplication\bin\System.Threading.Tasks.dll
+C:\Users\Penka\Desktop\LibraryWebApplication\LibraryWebApplication\bin\System.Threading.Tasks.Parallel.dll
+C:\Users\Penka\Desktop\LibraryWebApplication\LibraryWebApplication\bin\System.Threading.Thread.dll
+C:\Users\Penka\Desktop\LibraryWebApplication\LibraryWebApplication\bin\System.Threading.ThreadPool.dll
+C:\Users\Penka\Desktop\LibraryWebApplication\LibraryWebApplication\bin\System.Threading.Timer.dll
+C:\Users\Penka\Desktop\LibraryWebApplication\LibraryWebApplication\bin\System.ValueTuple.dll
+C:\Users\Penka\Desktop\LibraryWebApplication\LibraryWebApplication\bin\System.Xml.ReaderWriter.dll
+C:\Users\Penka\Desktop\LibraryWebApplication\LibraryWebApplication\bin\System.Xml.XDocument.dll
+C:\Users\Penka\Desktop\LibraryWebApplication\LibraryWebApplication\bin\System.Xml.XmlDocument.dll
+C:\Users\Penka\Desktop\LibraryWebApplication\LibraryWebApplication\bin\System.Xml.XmlSerializer.dll
+C:\Users\Penka\Desktop\LibraryWebApplication\LibraryWebApplication\bin\System.Xml.XPath.dll
+C:\Users\Penka\Desktop\LibraryWebApplication\LibraryWebApplication\bin\System.Xml.XPath.XDocument.dll
+C:\Users\Penka\Desktop\LibraryWebApplication\LibraryWebApplication\bin\Microsoft.AspNetCore.Antiforgery.dll
+C:\Users\Penka\Desktop\LibraryWebApplication\LibraryWebApplication\bin\Microsoft.AspNetCore.Authentication.Abstractions.dll
+C:\Users\Penka\Desktop\LibraryWebApplication\LibraryWebApplication\bin\Microsoft.AspNetCore.Authentication.Core.dll
+C:\Users\Penka\Desktop\LibraryWebApplication\LibraryWebApplication\bin\Microsoft.AspNetCore.Authorization.dll
+C:\Users\Penka\Desktop\LibraryWebApplication\LibraryWebApplication\bin\Microsoft.AspNetCore.Authorization.Policy.dll
+C:\Users\Penka\Desktop\LibraryWebApplication\LibraryWebApplication\bin\Microsoft.AspNetCore.Cors.dll
+C:\Users\Penka\Desktop\LibraryWebApplication\LibraryWebApplication\bin\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\Penka\Desktop\LibraryWebApplication\LibraryWebApplication\bin\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+C:\Users\Penka\Desktop\LibraryWebApplication\LibraryWebApplication\bin\Microsoft.AspNetCore.DataProtection.dll
+C:\Users\Penka\Desktop\LibraryWebApplication\LibraryWebApplication\bin\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+C:\Users\Penka\Desktop\LibraryWebApplication\LibraryWebApplication\bin\Microsoft.AspNetCore.Hosting.Abstractions.dll
+C:\Users\Penka\Desktop\LibraryWebApplication\LibraryWebApplication\bin\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+C:\Users\Penka\Desktop\LibraryWebApplication\LibraryWebApplication\bin\Microsoft.AspNetCore.Html.Abstractions.dll
+C:\Users\Penka\Desktop\LibraryWebApplication\LibraryWebApplication\bin\Microsoft.AspNetCore.Http.Abstractions.dll
+C:\Users\Penka\Desktop\LibraryWebApplication\LibraryWebApplication\bin\Microsoft.AspNetCore.Http.dll
+C:\Users\Penka\Desktop\LibraryWebApplication\LibraryWebApplication\bin\Microsoft.AspNetCore.Http.Extensions.dll
+C:\Users\Penka\Desktop\LibraryWebApplication\LibraryWebApplication\bin\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\Penka\Desktop\LibraryWebApplication\LibraryWebApplication\bin\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\Penka\Desktop\LibraryWebApplication\LibraryWebApplication\bin\Microsoft.AspNetCore.Localization.dll
+C:\Users\Penka\Desktop\LibraryWebApplication\LibraryWebApplication\bin\Microsoft.AspNetCore.Mvc.Abstractions.dll
+C:\Users\Penka\Desktop\LibraryWebApplication\LibraryWebApplication\bin\Microsoft.AspNetCore.Mvc.ApiExplorer.dll
+C:\Users\Penka\Desktop\LibraryWebApplication\LibraryWebApplication\bin\Microsoft.AspNetCore.Mvc.Core.dll
+C:\Users\Penka\Desktop\LibraryWebApplication\LibraryWebApplication\bin\Microsoft.AspNetCore.Mvc.Cors.dll
+C:\Users\Penka\Desktop\LibraryWebApplication\LibraryWebApplication\bin\Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+C:\Users\Penka\Desktop\LibraryWebApplication\LibraryWebApplication\bin\Microsoft.AspNetCore.Mvc.dll
+C:\Users\Penka\Desktop\LibraryWebApplication\LibraryWebApplication\bin\Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+C:\Users\Penka\Desktop\LibraryWebApplication\LibraryWebApplication\bin\Microsoft.AspNetCore.Mvc.Localization.dll
+C:\Users\Penka\Desktop\LibraryWebApplication\LibraryWebApplication\bin\Microsoft.AspNetCore.Mvc.Razor.dll
+C:\Users\Penka\Desktop\LibraryWebApplication\LibraryWebApplication\bin\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+C:\Users\Penka\Desktop\LibraryWebApplication\LibraryWebApplication\bin\Microsoft.AspNetCore.Mvc.RazorPages.dll
+C:\Users\Penka\Desktop\LibraryWebApplication\LibraryWebApplication\bin\Microsoft.AspNetCore.Mvc.TagHelpers.dll
+C:\Users\Penka\Desktop\LibraryWebApplication\LibraryWebApplication\bin\Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+C:\Users\Penka\Desktop\LibraryWebApplication\LibraryWebApplication\bin\Microsoft.AspNetCore.Razor.dll
+C:\Users\Penka\Desktop\LibraryWebApplication\LibraryWebApplication\bin\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Penka\Desktop\LibraryWebApplication\LibraryWebApplication\bin\Microsoft.AspNetCore.Razor.Runtime.dll
+C:\Users\Penka\Desktop\LibraryWebApplication\LibraryWebApplication\bin\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+C:\Users\Penka\Desktop\LibraryWebApplication\LibraryWebApplication\bin\Microsoft.AspNetCore.Routing.Abstractions.dll
+C:\Users\Penka\Desktop\LibraryWebApplication\LibraryWebApplication\bin\Microsoft.AspNetCore.Routing.dll
+C:\Users\Penka\Desktop\LibraryWebApplication\LibraryWebApplication\bin\Microsoft.AspNetCore.WebUtilities.dll
+C:\Users\Penka\Desktop\LibraryWebApplication\LibraryWebApplication\bin\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Penka\Desktop\LibraryWebApplication\LibraryWebApplication\bin\Microsoft.CodeAnalysis.dll
+C:\Users\Penka\Desktop\LibraryWebApplication\LibraryWebApplication\bin\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Penka\Desktop\LibraryWebApplication\LibraryWebApplication\bin\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\Penka\Desktop\LibraryWebApplication\LibraryWebApplication\bin\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Penka\Desktop\LibraryWebApplication\LibraryWebApplication\bin\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Penka\Desktop\LibraryWebApplication\LibraryWebApplication\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Penka\Desktop\LibraryWebApplication\LibraryWebApplication\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Penka\Desktop\LibraryWebApplication\LibraryWebApplication\bin\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Penka\Desktop\LibraryWebApplication\LibraryWebApplication\bin\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Penka\Desktop\LibraryWebApplication\LibraryWebApplication\bin\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\Penka\Desktop\LibraryWebApplication\LibraryWebApplication\bin\Microsoft.Extensions.FileProviders.Composite.dll
+C:\Users\Penka\Desktop\LibraryWebApplication\LibraryWebApplication\bin\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\Penka\Desktop\LibraryWebApplication\LibraryWebApplication\bin\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\Penka\Desktop\LibraryWebApplication\LibraryWebApplication\bin\Microsoft.Extensions.Localization.Abstractions.dll
+C:\Users\Penka\Desktop\LibraryWebApplication\LibraryWebApplication\bin\Microsoft.Extensions.Localization.dll
+C:\Users\Penka\Desktop\LibraryWebApplication\LibraryWebApplication\bin\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Penka\Desktop\LibraryWebApplication\LibraryWebApplication\bin\Microsoft.Extensions.ObjectPool.dll
+C:\Users\Penka\Desktop\LibraryWebApplication\LibraryWebApplication\bin\Microsoft.Extensions.Options.dll
+C:\Users\Penka\Desktop\LibraryWebApplication\LibraryWebApplication\bin\Microsoft.Extensions.Primitives.dll
+C:\Users\Penka\Desktop\LibraryWebApplication\LibraryWebApplication\bin\Microsoft.Extensions.WebEncoders.dll
+C:\Users\Penka\Desktop\LibraryWebApplication\LibraryWebApplication\bin\Microsoft.Net.Http.Headers.dll
+C:\Users\Penka\Desktop\LibraryWebApplication\LibraryWebApplication\bin\Microsoft.Win32.Registry.dll
+C:\Users\Penka\Desktop\LibraryWebApplication\LibraryWebApplication\bin\Newtonsoft.Json.Bson.dll
+C:\Users\Penka\Desktop\LibraryWebApplication\LibraryWebApplication\bin\System.Buffers.dll
+C:\Users\Penka\Desktop\LibraryWebApplication\LibraryWebApplication\bin\System.Collections.Immutable.dll
+C:\Users\Penka\Desktop\LibraryWebApplication\LibraryWebApplication\bin\System.ComponentModel.Annotations.dll
+C:\Users\Penka\Desktop\LibraryWebApplication\LibraryWebApplication\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Penka\Desktop\LibraryWebApplication\LibraryWebApplication\bin\System.Memory.dll
+C:\Users\Penka\Desktop\LibraryWebApplication\LibraryWebApplication\bin\System.Numerics.Vectors.dll
+C:\Users\Penka\Desktop\LibraryWebApplication\LibraryWebApplication\bin\System.Reflection.Metadata.dll
+C:\Users\Penka\Desktop\LibraryWebApplication\LibraryWebApplication\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Penka\Desktop\LibraryWebApplication\LibraryWebApplication\bin\System.Security.AccessControl.dll
+C:\Users\Penka\Desktop\LibraryWebApplication\LibraryWebApplication\bin\System.Security.Cryptography.Xml.dll
+C:\Users\Penka\Desktop\LibraryWebApplication\LibraryWebApplication\bin\System.Security.Permissions.dll
+C:\Users\Penka\Desktop\LibraryWebApplication\LibraryWebApplication\bin\System.Security.Principal.Windows.dll
+C:\Users\Penka\Desktop\LibraryWebApplication\LibraryWebApplication\bin\System.Text.Encoding.CodePages.dll
+C:\Users\Penka\Desktop\LibraryWebApplication\LibraryWebApplication\bin\System.Text.Encodings.Web.dll
+C:\Users\Penka\Desktop\LibraryWebApplication\LibraryWebApplication\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\Penka\Desktop\LibraryWebApplication\LibraryWebApplication\bin\Microsoft.AspNetCore.Antiforgery.xml
+C:\Users\Penka\Desktop\LibraryWebApplication\LibraryWebApplication\bin\Microsoft.AspNetCore.Authentication.Abstractions.xml
+C:\Users\Penka\Desktop\LibraryWebApplication\LibraryWebApplication\bin\Microsoft.AspNetCore.Authentication.Core.xml
+C:\Users\Penka\Desktop\LibraryWebApplication\LibraryWebApplication\bin\Microsoft.AspNetCore.Authorization.xml
+C:\Users\Penka\Desktop\LibraryWebApplication\LibraryWebApplication\bin\Microsoft.AspNetCore.Authorization.Policy.xml
+C:\Users\Penka\Desktop\LibraryWebApplication\LibraryWebApplication\bin\Microsoft.AspNetCore.Cors.xml
+C:\Users\Penka\Desktop\LibraryWebApplication\LibraryWebApplication\bin\Microsoft.AspNetCore.Cryptography.Internal.xml
+C:\Users\Penka\Desktop\LibraryWebApplication\LibraryWebApplication\bin\Microsoft.AspNetCore.DataProtection.xml
+C:\Users\Penka\Desktop\LibraryWebApplication\LibraryWebApplication\bin\Microsoft.AspNetCore.DataProtection.Abstractions.xml
+C:\Users\Penka\Desktop\LibraryWebApplication\LibraryWebApplication\bin\Microsoft.AspNetCore.Diagnostics.Abstractions.xml
+C:\Users\Penka\Desktop\LibraryWebApplication\LibraryWebApplication\bin\Microsoft.AspNetCore.Hosting.Abstractions.xml
+C:\Users\Penka\Desktop\LibraryWebApplication\LibraryWebApplication\bin\Microsoft.AspNetCore.Hosting.Server.Abstractions.xml
+C:\Users\Penka\Desktop\LibraryWebApplication\LibraryWebApplication\bin\Microsoft.AspNetCore.Html.Abstractions.xml
+C:\Users\Penka\Desktop\LibraryWebApplication\LibraryWebApplication\bin\Microsoft.AspNetCore.Http.xml
+C:\Users\Penka\Desktop\LibraryWebApplication\LibraryWebApplication\bin\Microsoft.AspNetCore.Http.Abstractions.xml
+C:\Users\Penka\Desktop\LibraryWebApplication\LibraryWebApplication\bin\Microsoft.AspNetCore.Http.Extensions.xml
+C:\Users\Penka\Desktop\LibraryWebApplication\LibraryWebApplication\bin\Microsoft.AspNetCore.Http.Features.xml
+C:\Users\Penka\Desktop\LibraryWebApplication\LibraryWebApplication\bin\Microsoft.AspNetCore.JsonPatch.xml
+C:\Users\Penka\Desktop\LibraryWebApplication\LibraryWebApplication\bin\Microsoft.AspNetCore.Localization.xml
+C:\Users\Penka\Desktop\LibraryWebApplication\LibraryWebApplication\bin\Microsoft.AspNetCore.Mvc.xml
+C:\Users\Penka\Desktop\LibraryWebApplication\LibraryWebApplication\bin\Microsoft.AspNetCore.Mvc.Abstractions.xml
+C:\Users\Penka\Desktop\LibraryWebApplication\LibraryWebApplication\bin\Microsoft.AspNetCore.Mvc.ApiExplorer.xml
+C:\Users\Penka\Desktop\LibraryWebApplication\LibraryWebApplication\bin\Microsoft.AspNetCore.Mvc.Core.xml
+C:\Users\Penka\Desktop\LibraryWebApplication\LibraryWebApplication\bin\Microsoft.AspNetCore.Mvc.Cors.xml
+C:\Users\Penka\Desktop\LibraryWebApplication\LibraryWebApplication\bin\Microsoft.AspNetCore.Mvc.DataAnnotations.xml
+C:\Users\Penka\Desktop\LibraryWebApplication\LibraryWebApplication\bin\Microsoft.AspNetCore.Mvc.Formatters.Json.xml
+C:\Users\Penka\Desktop\LibraryWebApplication\LibraryWebApplication\bin\Microsoft.AspNetCore.Mvc.Localization.xml
+C:\Users\Penka\Desktop\LibraryWebApplication\LibraryWebApplication\bin\Microsoft.AspNetCore.Mvc.Razor.xml
+C:\Users\Penka\Desktop\LibraryWebApplication\LibraryWebApplication\bin\Microsoft.AspNetCore.Mvc.Razor.Extensions.xml
+C:\Users\Penka\Desktop\LibraryWebApplication\LibraryWebApplication\bin\Microsoft.AspNetCore.Mvc.RazorPages.xml
+C:\Users\Penka\Desktop\LibraryWebApplication\LibraryWebApplication\bin\Microsoft.AspNetCore.Mvc.TagHelpers.xml
+C:\Users\Penka\Desktop\LibraryWebApplication\LibraryWebApplication\bin\Microsoft.AspNetCore.Mvc.ViewFeatures.xml
+C:\Users\Penka\Desktop\LibraryWebApplication\LibraryWebApplication\bin\Microsoft.AspNetCore.Razor.xml
+C:\Users\Penka\Desktop\LibraryWebApplication\LibraryWebApplication\bin\Microsoft.AspNetCore.Razor.Language.xml
+C:\Users\Penka\Desktop\LibraryWebApplication\LibraryWebApplication\bin\Microsoft.AspNetCore.Razor.Runtime.xml
+C:\Users\Penka\Desktop\LibraryWebApplication\LibraryWebApplication\bin\Microsoft.AspNetCore.ResponseCaching.Abstractions.xml
+C:\Users\Penka\Desktop\LibraryWebApplication\LibraryWebApplication\bin\Microsoft.AspNetCore.Routing.xml
+C:\Users\Penka\Desktop\LibraryWebApplication\LibraryWebApplication\bin\Microsoft.AspNetCore.Routing.Abstractions.xml
+C:\Users\Penka\Desktop\LibraryWebApplication\LibraryWebApplication\bin\Microsoft.AspNetCore.WebUtilities.xml
+C:\Users\Penka\Desktop\LibraryWebApplication\LibraryWebApplication\bin\Microsoft.CodeAnalysis.pdb
+C:\Users\Penka\Desktop\LibraryWebApplication\LibraryWebApplication\bin\Microsoft.CodeAnalysis.xml
+C:\Users\Penka\Desktop\LibraryWebApplication\LibraryWebApplication\bin\Microsoft.CodeAnalysis.CSharp.pdb
+C:\Users\Penka\Desktop\LibraryWebApplication\LibraryWebApplication\bin\Microsoft.CodeAnalysis.CSharp.xml
+C:\Users\Penka\Desktop\LibraryWebApplication\LibraryWebApplication\bin\Microsoft.CodeAnalysis.Razor.xml
+C:\Users\Penka\Desktop\LibraryWebApplication\LibraryWebApplication\bin\Microsoft.Extensions.Caching.Abstractions.xml
+C:\Users\Penka\Desktop\LibraryWebApplication\LibraryWebApplication\bin\Microsoft.Extensions.Caching.Memory.xml
+C:\Users\Penka\Desktop\LibraryWebApplication\LibraryWebApplication\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\Penka\Desktop\LibraryWebApplication\LibraryWebApplication\bin\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\Penka\Desktop\LibraryWebApplication\LibraryWebApplication\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\Penka\Desktop\LibraryWebApplication\LibraryWebApplication\bin\Microsoft.Extensions.FileProviders.Abstractions.xml
+C:\Users\Penka\Desktop\LibraryWebApplication\LibraryWebApplication\bin\Microsoft.Extensions.FileProviders.Composite.xml
+C:\Users\Penka\Desktop\LibraryWebApplication\LibraryWebApplication\bin\Microsoft.Extensions.FileSystemGlobbing.xml
+C:\Users\Penka\Desktop\LibraryWebApplication\LibraryWebApplication\bin\Microsoft.Extensions.Hosting.Abstractions.xml
+C:\Users\Penka\Desktop\LibraryWebApplication\LibraryWebApplication\bin\Microsoft.Extensions.Localization.xml
+C:\Users\Penka\Desktop\LibraryWebApplication\LibraryWebApplication\bin\Microsoft.Extensions.Localization.Abstractions.xml
+C:\Users\Penka\Desktop\LibraryWebApplication\LibraryWebApplication\bin\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\Penka\Desktop\LibraryWebApplication\LibraryWebApplication\bin\Microsoft.Extensions.ObjectPool.xml
+C:\Users\Penka\Desktop\LibraryWebApplication\LibraryWebApplication\bin\Microsoft.Extensions.Options.xml
+C:\Users\Penka\Desktop\LibraryWebApplication\LibraryWebApplication\bin\Microsoft.Extensions.Primitives.xml
+C:\Users\Penka\Desktop\LibraryWebApplication\LibraryWebApplication\bin\Microsoft.Extensions.WebEncoders.xml
+C:\Users\Penka\Desktop\LibraryWebApplication\LibraryWebApplication\bin\Microsoft.Net.Http.Headers.xml
+C:\Users\Penka\Desktop\LibraryWebApplication\LibraryWebApplication\bin\Newtonsoft.Json.Bson.xml
+C:\Users\Penka\Desktop\LibraryWebApplication\LibraryWebApplication\bin\System.Buffers.xml
+C:\Users\Penka\Desktop\LibraryWebApplication\LibraryWebApplication\bin\System.Collections.Immutable.xml
+C:\Users\Penka\Desktop\LibraryWebApplication\LibraryWebApplication\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Penka\Desktop\LibraryWebApplication\LibraryWebApplication\bin\System.Memory.xml
+C:\Users\Penka\Desktop\LibraryWebApplication\LibraryWebApplication\bin\System.Numerics.Vectors.xml
+C:\Users\Penka\Desktop\LibraryWebApplication\LibraryWebApplication\bin\System.Reflection.Metadata.xml
+C:\Users\Penka\Desktop\LibraryWebApplication\LibraryWebApplication\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Penka\Desktop\LibraryWebApplication\LibraryWebApplication\bin\System.Text.Encodings.Web.xml
+C:\Users\Penka\Desktop\LibraryWebApplication\LibraryWebApplication\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\Penka\Desktop\LibraryWebApplication\LibraryWebApplication\obj\Debug\LibraryWebApplication.Migrations.InitialMigration5.resources
+C:\Users\Penka\Desktop\LibraryWebApplication\LibraryWebApplication\obj\Debug\LibraryWebApplication.Migrations.RolesAdd.resources
+C:\Users\Penka\Desktop\LibraryWebApplication\LibraryWebApplication\obj\Debug\LibraryWebApplication.Migrations.Filters.resources
+C:\Users\Penka\Desktop\LibraryWebApplication\LibraryWebApplication\obj\Debug\LibraryWebApplication.Migrations.Titles.resources
+C:\Users\Penka\Desktop\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Penka\Desktop\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Penka\Desktop\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\LibraryWebApplication.dll.config
+C:\Users\Penka\Desktop\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\LibraryWebApplication.dll
+C:\Users\Penka\Desktop\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\LibraryWebApplication.pdb
+C:\Users\Penka\Desktop\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\roslyn\csc.exe
+C:\Users\Penka\Desktop\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\roslyn\csc.exe.config
+C:\Users\Penka\Desktop\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\roslyn\csc.rsp
+C:\Users\Penka\Desktop\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\roslyn\csi.exe
+C:\Users\Penka\Desktop\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\roslyn\csi.exe.config
+C:\Users\Penka\Desktop\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\roslyn\csi.rsp
+C:\Users\Penka\Desktop\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Penka\Desktop\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Penka\Desktop\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Penka\Desktop\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Penka\Desktop\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Penka\Desktop\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Penka\Desktop\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Penka\Desktop\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Penka\Desktop\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Penka\Desktop\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Penka\Desktop\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Penka\Desktop\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\roslyn\System.AppContext.dll
+C:\Users\Penka\Desktop\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Penka\Desktop\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\roslyn\System.Console.dll
+C:\Users\Penka\Desktop\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Penka\Desktop\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Penka\Desktop\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\roslyn\System.IO.Compression.dll
+C:\Users\Penka\Desktop\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Penka\Desktop\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Penka\Desktop\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Penka\Desktop\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Penka\Desktop\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Penka\Desktop\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Penka\Desktop\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\roslyn\System.Security.Claims.dll
+C:\Users\Penka\Desktop\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Penka\Desktop\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Penka\Desktop\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Penka\Desktop\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Penka\Desktop\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Penka\Desktop\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Penka\Desktop\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\roslyn\System.ValueTuple.dll
+C:\Users\Penka\Desktop\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Penka\Desktop\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Penka\Desktop\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Penka\Desktop\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Penka\Desktop\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\roslyn\vbc.exe
+C:\Users\Penka\Desktop\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\roslyn\vbc.exe.config
+C:\Users\Penka\Desktop\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\roslyn\vbc.rsp
+C:\Users\Penka\Desktop\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\roslyn\VBCSCompiler.exe
+C:\Users\Penka\Desktop\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Penka\Desktop\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\Microsoft.Win32.Primitives.dll
+C:\Users\Penka\Desktop\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\netstandard.dll
+C:\Users\Penka\Desktop\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\System.AppContext.dll
+C:\Users\Penka\Desktop\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\System.Collections.Concurrent.dll
+C:\Users\Penka\Desktop\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\System.Collections.dll
+C:\Users\Penka\Desktop\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\System.Collections.NonGeneric.dll
+C:\Users\Penka\Desktop\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\System.Collections.Specialized.dll
+C:\Users\Penka\Desktop\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\System.ComponentModel.dll
+C:\Users\Penka\Desktop\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\System.ComponentModel.EventBasedAsync.dll
+C:\Users\Penka\Desktop\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\System.ComponentModel.Primitives.dll
+C:\Users\Penka\Desktop\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\System.ComponentModel.TypeConverter.dll
+C:\Users\Penka\Desktop\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\System.Console.dll
+C:\Users\Penka\Desktop\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\System.Data.Common.dll
+C:\Users\Penka\Desktop\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\System.Diagnostics.Contracts.dll
+C:\Users\Penka\Desktop\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\System.Diagnostics.Debug.dll
+C:\Users\Penka\Desktop\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Penka\Desktop\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\System.Diagnostics.Process.dll
+C:\Users\Penka\Desktop\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\System.Diagnostics.StackTrace.dll
+C:\Users\Penka\Desktop\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\Penka\Desktop\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\System.Diagnostics.Tools.dll
+C:\Users\Penka\Desktop\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\System.Diagnostics.TraceSource.dll
+C:\Users\Penka\Desktop\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\System.Diagnostics.Tracing.dll
+C:\Users\Penka\Desktop\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\System.Drawing.Primitives.dll
+C:\Users\Penka\Desktop\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\System.Dynamic.Runtime.dll
+C:\Users\Penka\Desktop\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\System.Globalization.Calendars.dll
+C:\Users\Penka\Desktop\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\System.Globalization.dll
+C:\Users\Penka\Desktop\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\System.Globalization.Extensions.dll
+C:\Users\Penka\Desktop\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\System.IO.Compression.dll
+C:\Users\Penka\Desktop\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\System.IO.Compression.ZipFile.dll
+C:\Users\Penka\Desktop\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\System.IO.dll
+C:\Users\Penka\Desktop\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\System.IO.FileSystem.dll
+C:\Users\Penka\Desktop\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Penka\Desktop\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\System.IO.FileSystem.Primitives.dll
+C:\Users\Penka\Desktop\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\System.IO.FileSystem.Watcher.dll
+C:\Users\Penka\Desktop\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\System.IO.IsolatedStorage.dll
+C:\Users\Penka\Desktop\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\System.IO.MemoryMappedFiles.dll
+C:\Users\Penka\Desktop\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\System.IO.Pipes.dll
+C:\Users\Penka\Desktop\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\System.IO.UnmanagedMemoryStream.dll
+C:\Users\Penka\Desktop\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\System.Linq.dll
+C:\Users\Penka\Desktop\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\System.Linq.Expressions.dll
+C:\Users\Penka\Desktop\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\System.Linq.Parallel.dll
+C:\Users\Penka\Desktop\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\System.Linq.Queryable.dll
+C:\Users\Penka\Desktop\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\System.Net.Http.dll
+C:\Users\Penka\Desktop\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\System.Net.NameResolution.dll
+C:\Users\Penka\Desktop\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\System.Net.NetworkInformation.dll
+C:\Users\Penka\Desktop\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\System.Net.Ping.dll
+C:\Users\Penka\Desktop\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\System.Net.Primitives.dll
+C:\Users\Penka\Desktop\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\System.Net.Requests.dll
+C:\Users\Penka\Desktop\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\System.Net.Security.dll
+C:\Users\Penka\Desktop\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\System.Net.Sockets.dll
+C:\Users\Penka\Desktop\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\System.Net.WebHeaderCollection.dll
+C:\Users\Penka\Desktop\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\System.Net.WebSockets.Client.dll
+C:\Users\Penka\Desktop\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\System.Net.WebSockets.dll
+C:\Users\Penka\Desktop\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\System.ObjectModel.dll
+C:\Users\Penka\Desktop\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\System.Reflection.dll
+C:\Users\Penka\Desktop\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\System.Reflection.Extensions.dll
+C:\Users\Penka\Desktop\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\System.Reflection.Primitives.dll
+C:\Users\Penka\Desktop\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\System.Resources.Reader.dll
+C:\Users\Penka\Desktop\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\System.Resources.ResourceManager.dll
+C:\Users\Penka\Desktop\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\System.Resources.Writer.dll
+C:\Users\Penka\Desktop\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\Penka\Desktop\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\System.Runtime.dll
+C:\Users\Penka\Desktop\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\System.Runtime.Extensions.dll
+C:\Users\Penka\Desktop\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\System.Runtime.Handles.dll
+C:\Users\Penka\Desktop\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\System.Runtime.InteropServices.dll
+C:\Users\Penka\Desktop\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Penka\Desktop\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\System.Runtime.Numerics.dll
+C:\Users\Penka\Desktop\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\System.Runtime.Serialization.Formatters.dll
+C:\Users\Penka\Desktop\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\System.Runtime.Serialization.Json.dll
+C:\Users\Penka\Desktop\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\System.Runtime.Serialization.Primitives.dll
+C:\Users\Penka\Desktop\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\System.Runtime.Serialization.Xml.dll
+C:\Users\Penka\Desktop\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\System.Security.Claims.dll
+C:\Users\Penka\Desktop\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\System.Security.Cryptography.Algorithms.dll
+C:\Users\Penka\Desktop\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\System.Security.Cryptography.Csp.dll
+C:\Users\Penka\Desktop\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\System.Security.Cryptography.Encoding.dll
+C:\Users\Penka\Desktop\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\System.Security.Cryptography.Primitives.dll
+C:\Users\Penka\Desktop\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Penka\Desktop\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\System.Security.Principal.dll
+C:\Users\Penka\Desktop\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\System.Security.SecureString.dll
+C:\Users\Penka\Desktop\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\System.Text.Encoding.dll
+C:\Users\Penka\Desktop\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\System.Text.Encoding.Extensions.dll
+C:\Users\Penka\Desktop\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\System.Text.RegularExpressions.dll
+C:\Users\Penka\Desktop\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\System.Threading.dll
+C:\Users\Penka\Desktop\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\System.Threading.Overlapped.dll
+C:\Users\Penka\Desktop\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\System.Threading.Tasks.dll
+C:\Users\Penka\Desktop\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\System.Threading.Tasks.Parallel.dll
+C:\Users\Penka\Desktop\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\System.Threading.Thread.dll
+C:\Users\Penka\Desktop\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\System.Threading.ThreadPool.dll
+C:\Users\Penka\Desktop\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\System.Threading.Timer.dll
+C:\Users\Penka\Desktop\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\System.ValueTuple.dll
+C:\Users\Penka\Desktop\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\System.Xml.ReaderWriter.dll
+C:\Users\Penka\Desktop\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\System.Xml.XDocument.dll
+C:\Users\Penka\Desktop\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\System.Xml.XmlDocument.dll
+C:\Users\Penka\Desktop\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\System.Xml.XmlSerializer.dll
+C:\Users\Penka\Desktop\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\System.Xml.XPath.dll
+C:\Users\Penka\Desktop\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\System.Xml.XPath.XDocument.dll
+C:\Users\Penka\Desktop\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\Antlr3.Runtime.dll
+C:\Users\Penka\Desktop\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\EntityFramework.dll
+C:\Users\Penka\Desktop\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\EntityFramework.SqlServer.dll
+C:\Users\Penka\Desktop\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Penka\Desktop\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Penka\Desktop\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Penka\Desktop\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\Microsoft.AspNetCore.Antiforgery.dll
+C:\Users\Penka\Desktop\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\Microsoft.AspNetCore.Authentication.Abstractions.dll
+C:\Users\Penka\Desktop\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\Microsoft.AspNetCore.Authentication.Core.dll
+C:\Users\Penka\Desktop\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\Microsoft.AspNetCore.Authorization.dll
+C:\Users\Penka\Desktop\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\Microsoft.AspNetCore.Authorization.Policy.dll
+C:\Users\Penka\Desktop\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\Microsoft.AspNetCore.Cors.dll
+C:\Users\Penka\Desktop\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\Penka\Desktop\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+C:\Users\Penka\Desktop\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\Microsoft.AspNetCore.DataProtection.dll
+C:\Users\Penka\Desktop\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+C:\Users\Penka\Desktop\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\Microsoft.AspNetCore.Hosting.Abstractions.dll
+C:\Users\Penka\Desktop\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+C:\Users\Penka\Desktop\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\Microsoft.AspNetCore.Html.Abstractions.dll
+C:\Users\Penka\Desktop\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\Microsoft.AspNetCore.Http.Abstractions.dll
+C:\Users\Penka\Desktop\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\Microsoft.AspNetCore.Http.dll
+C:\Users\Penka\Desktop\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\Microsoft.AspNetCore.Http.Extensions.dll
+C:\Users\Penka\Desktop\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\Penka\Desktop\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\Penka\Desktop\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\Microsoft.AspNetCore.Localization.dll
+C:\Users\Penka\Desktop\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\Microsoft.AspNetCore.Mvc.Abstractions.dll
+C:\Users\Penka\Desktop\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\Microsoft.AspNetCore.Mvc.ApiExplorer.dll
+C:\Users\Penka\Desktop\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\Microsoft.AspNetCore.Mvc.Core.dll
+C:\Users\Penka\Desktop\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\Microsoft.AspNetCore.Mvc.Cors.dll
+C:\Users\Penka\Desktop\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+C:\Users\Penka\Desktop\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\Microsoft.AspNetCore.Mvc.dll
+C:\Users\Penka\Desktop\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+C:\Users\Penka\Desktop\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\Microsoft.AspNetCore.Mvc.Localization.dll
+C:\Users\Penka\Desktop\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\Microsoft.AspNetCore.Mvc.Razor.dll
+C:\Users\Penka\Desktop\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+C:\Users\Penka\Desktop\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\Microsoft.AspNetCore.Mvc.RazorPages.dll
+C:\Users\Penka\Desktop\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\Microsoft.AspNetCore.Mvc.TagHelpers.dll
+C:\Users\Penka\Desktop\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+C:\Users\Penka\Desktop\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\Microsoft.AspNetCore.Razor.dll
+C:\Users\Penka\Desktop\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Penka\Desktop\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\Microsoft.AspNetCore.Razor.Runtime.dll
+C:\Users\Penka\Desktop\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+C:\Users\Penka\Desktop\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\Microsoft.AspNetCore.Routing.Abstractions.dll
+C:\Users\Penka\Desktop\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\Microsoft.AspNetCore.Routing.dll
+C:\Users\Penka\Desktop\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\Microsoft.AspNetCore.WebUtilities.dll
+C:\Users\Penka\Desktop\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Penka\Desktop\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\Microsoft.CodeAnalysis.dll
+C:\Users\Penka\Desktop\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Penka\Desktop\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Penka\Desktop\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\Penka\Desktop\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Penka\Desktop\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Penka\Desktop\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Penka\Desktop\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Penka\Desktop\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Penka\Desktop\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Penka\Desktop\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\Penka\Desktop\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\Microsoft.Extensions.FileProviders.Composite.dll
+C:\Users\Penka\Desktop\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\Penka\Desktop\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\Penka\Desktop\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\Microsoft.Extensions.Localization.Abstractions.dll
+C:\Users\Penka\Desktop\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\Microsoft.Extensions.Localization.dll
+C:\Users\Penka\Desktop\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Penka\Desktop\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\Microsoft.Extensions.ObjectPool.dll
+C:\Users\Penka\Desktop\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\Microsoft.Extensions.Options.dll
+C:\Users\Penka\Desktop\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\Microsoft.Extensions.Primitives.dll
+C:\Users\Penka\Desktop\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\Microsoft.Extensions.WebEncoders.dll
+C:\Users\Penka\Desktop\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\Microsoft.Net.Http.Headers.dll
+C:\Users\Penka\Desktop\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\Microsoft.Owin.dll
+C:\Users\Penka\Desktop\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Penka\Desktop\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Penka\Desktop\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\Microsoft.Owin.Security.dll
+C:\Users\Penka\Desktop\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Penka\Desktop\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Penka\Desktop\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Penka\Desktop\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Penka\Desktop\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Penka\Desktop\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Penka\Desktop\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\Microsoft.Win32.Registry.dll
+C:\Users\Penka\Desktop\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\Newtonsoft.Json.Bson.dll
+C:\Users\Penka\Desktop\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\Newtonsoft.Json.dll
+C:\Users\Penka\Desktop\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\Owin.dll
+C:\Users\Penka\Desktop\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\System.Buffers.dll
+C:\Users\Penka\Desktop\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\System.Collections.Immutable.dll
+C:\Users\Penka\Desktop\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\System.ComponentModel.Annotations.dll
+C:\Users\Penka\Desktop\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Penka\Desktop\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\System.Memory.dll
+C:\Users\Penka\Desktop\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\System.Numerics.Vectors.dll
+C:\Users\Penka\Desktop\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\System.Reflection.Metadata.dll
+C:\Users\Penka\Desktop\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Penka\Desktop\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\System.Security.AccessControl.dll
+C:\Users\Penka\Desktop\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\System.Security.Cryptography.Xml.dll
+C:\Users\Penka\Desktop\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\System.Security.Permissions.dll
+C:\Users\Penka\Desktop\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\System.Security.Principal.Windows.dll
+C:\Users\Penka\Desktop\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\System.Text.Encoding.CodePages.dll
+C:\Users\Penka\Desktop\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\System.Text.Encodings.Web.dll
+C:\Users\Penka\Desktop\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\Penka\Desktop\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\System.Web.Helpers.dll
+C:\Users\Penka\Desktop\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\System.Web.Mvc.dll
+C:\Users\Penka\Desktop\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\System.Web.Optimization.dll
+C:\Users\Penka\Desktop\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\System.Web.Razor.dll
+C:\Users\Penka\Desktop\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Penka\Desktop\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\System.Web.WebPages.dll
+C:\Users\Penka\Desktop\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\System.Web.WebPages.Razor.dll
+C:\Users\Penka\Desktop\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\WebGrease.dll
+C:\Users\Penka\Desktop\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\Microsoft.AspNetCore.Antiforgery.xml
+C:\Users\Penka\Desktop\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\Microsoft.AspNetCore.Authentication.Abstractions.xml
+C:\Users\Penka\Desktop\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\Microsoft.AspNetCore.Authentication.Core.xml
+C:\Users\Penka\Desktop\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\Microsoft.AspNetCore.Authorization.xml
+C:\Users\Penka\Desktop\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\Microsoft.AspNetCore.Authorization.Policy.xml
+C:\Users\Penka\Desktop\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\Microsoft.AspNetCore.Cors.xml
+C:\Users\Penka\Desktop\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\Microsoft.AspNetCore.Cryptography.Internal.xml
+C:\Users\Penka\Desktop\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\Microsoft.AspNetCore.DataProtection.xml
+C:\Users\Penka\Desktop\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\Microsoft.AspNetCore.DataProtection.Abstractions.xml
+C:\Users\Penka\Desktop\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\Microsoft.AspNetCore.Diagnostics.Abstractions.xml
+C:\Users\Penka\Desktop\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\Microsoft.AspNetCore.Hosting.Abstractions.xml
+C:\Users\Penka\Desktop\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\Microsoft.AspNetCore.Hosting.Server.Abstractions.xml
+C:\Users\Penka\Desktop\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\Microsoft.AspNetCore.Html.Abstractions.xml
+C:\Users\Penka\Desktop\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\Microsoft.AspNetCore.Http.xml
+C:\Users\Penka\Desktop\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\Microsoft.AspNetCore.Http.Abstractions.xml
+C:\Users\Penka\Desktop\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\Microsoft.AspNetCore.Http.Extensions.xml
+C:\Users\Penka\Desktop\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\Microsoft.AspNetCore.Http.Features.xml
+C:\Users\Penka\Desktop\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\Microsoft.AspNetCore.JsonPatch.xml
+C:\Users\Penka\Desktop\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\Microsoft.AspNetCore.Localization.xml
+C:\Users\Penka\Desktop\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\Microsoft.AspNetCore.Mvc.xml
+C:\Users\Penka\Desktop\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\Microsoft.AspNetCore.Mvc.Abstractions.xml
+C:\Users\Penka\Desktop\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\Microsoft.AspNetCore.Mvc.ApiExplorer.xml
+C:\Users\Penka\Desktop\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\Microsoft.AspNetCore.Mvc.Core.xml
+C:\Users\Penka\Desktop\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\Microsoft.AspNetCore.Mvc.Cors.xml
+C:\Users\Penka\Desktop\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\Microsoft.AspNetCore.Mvc.DataAnnotations.xml
+C:\Users\Penka\Desktop\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\Microsoft.AspNetCore.Mvc.Formatters.Json.xml
+C:\Users\Penka\Desktop\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\Microsoft.AspNetCore.Mvc.Localization.xml
+C:\Users\Penka\Desktop\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\Microsoft.AspNetCore.Mvc.Razor.xml
+C:\Users\Penka\Desktop\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\Microsoft.AspNetCore.Mvc.Razor.Extensions.xml
+C:\Users\Penka\Desktop\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\Microsoft.AspNetCore.Mvc.RazorPages.xml
+C:\Users\Penka\Desktop\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\Microsoft.AspNetCore.Mvc.TagHelpers.xml
+C:\Users\Penka\Desktop\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\Microsoft.AspNetCore.Mvc.ViewFeatures.xml
+C:\Users\Penka\Desktop\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\Microsoft.AspNetCore.Razor.xml
+C:\Users\Penka\Desktop\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\Microsoft.AspNetCore.Razor.Language.xml
+C:\Users\Penka\Desktop\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\Microsoft.AspNetCore.Razor.Runtime.xml
+C:\Users\Penka\Desktop\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\Microsoft.AspNetCore.ResponseCaching.Abstractions.xml
+C:\Users\Penka\Desktop\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\Microsoft.AspNetCore.Routing.xml
+C:\Users\Penka\Desktop\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\Microsoft.AspNetCore.Routing.Abstractions.xml
+C:\Users\Penka\Desktop\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\Microsoft.AspNetCore.WebUtilities.xml
+C:\Users\Penka\Desktop\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\Microsoft.CodeAnalysis.pdb
+C:\Users\Penka\Desktop\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\Microsoft.CodeAnalysis.xml
+C:\Users\Penka\Desktop\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\Microsoft.CodeAnalysis.CSharp.pdb
+C:\Users\Penka\Desktop\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\Microsoft.CodeAnalysis.CSharp.xml
+C:\Users\Penka\Desktop\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\Microsoft.CodeAnalysis.Razor.xml
+C:\Users\Penka\Desktop\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\Microsoft.Extensions.Caching.Abstractions.xml
+C:\Users\Penka\Desktop\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\Microsoft.Extensions.Caching.Memory.xml
+C:\Users\Penka\Desktop\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\Penka\Desktop\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\Penka\Desktop\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\Penka\Desktop\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\Microsoft.Extensions.FileProviders.Abstractions.xml
+C:\Users\Penka\Desktop\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\Microsoft.Extensions.FileProviders.Composite.xml
+C:\Users\Penka\Desktop\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\Microsoft.Extensions.FileSystemGlobbing.xml
+C:\Users\Penka\Desktop\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\Microsoft.Extensions.Hosting.Abstractions.xml
+C:\Users\Penka\Desktop\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\Microsoft.Extensions.Localization.xml
+C:\Users\Penka\Desktop\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\Microsoft.Extensions.Localization.Abstractions.xml
+C:\Users\Penka\Desktop\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\Penka\Desktop\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\Microsoft.Extensions.ObjectPool.xml
+C:\Users\Penka\Desktop\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\Microsoft.Extensions.Options.xml
+C:\Users\Penka\Desktop\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\Microsoft.Extensions.Primitives.xml
+C:\Users\Penka\Desktop\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\Microsoft.Extensions.WebEncoders.xml
+C:\Users\Penka\Desktop\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\Microsoft.Net.Http.Headers.xml
+C:\Users\Penka\Desktop\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\Newtonsoft.Json.xml
+C:\Users\Penka\Desktop\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\Newtonsoft.Json.Bson.xml
+C:\Users\Penka\Desktop\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\System.Buffers.xml
+C:\Users\Penka\Desktop\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\System.Collections.Immutable.xml
+C:\Users\Penka\Desktop\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Penka\Desktop\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\System.Memory.xml
+C:\Users\Penka\Desktop\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\System.Numerics.Vectors.xml
+C:\Users\Penka\Desktop\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\System.Reflection.Metadata.xml
+C:\Users\Penka\Desktop\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Penka\Desktop\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\System.Text.Encodings.Web.xml
+C:\Users\Penka\Desktop\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\Penka\Desktop\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\System.Web.Helpers.xml
+C:\Users\Penka\Desktop\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\System.Web.Mvc.xml
+C:\Users\Penka\Desktop\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\System.Web.Optimization.xml
+C:\Users\Penka\Desktop\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\System.Web.Razor.xml
+C:\Users\Penka\Desktop\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\System.Web.WebPages.xml
+C:\Users\Penka\Desktop\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Penka\Desktop\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\System.Web.WebPages.Razor.xml
+C:\Users\Penka\Desktop\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\Antlr3.Runtime.pdb
+C:\Users\Penka\Desktop\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\EntityFramework.xml
+C:\Users\Penka\Desktop\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\EntityFramework.SqlServer.xml
+C:\Users\Penka\Desktop\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Penka\Desktop\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Penka\Desktop\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Penka\Desktop\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\Microsoft.Owin.xml
+C:\Users\Penka\Desktop\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Penka\Desktop\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\Microsoft.Owin.Security.xml
+C:\Users\Penka\Desktop\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Penka\Desktop\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Penka\Desktop\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Penka\Desktop\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Penka\Desktop\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Penka\Desktop\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Penka\Desktop\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Penka\Desktop\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\obj\Debug\LibraryWebApplication.csprojAssemblyReference.cache
+C:\Users\Penka\Desktop\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\obj\Debug\LibraryWebApplication.Migrations.InitialMigration.resources
+C:\Users\Penka\Desktop\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\obj\Debug\LibraryWebApplication.Migrations.InitialMigration1.resources
+C:\Users\Penka\Desktop\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\obj\Debug\LibraryWebApplication.Migrations.InitialMigration2.resources
+C:\Users\Penka\Desktop\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\obj\Debug\LibraryWebApplication.Migrations.InitialMigration3.resources
+C:\Users\Penka\Desktop\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\obj\Debug\LibraryWebApplication.Migrations.InitialMigration4.resources
+C:\Users\Penka\Desktop\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\obj\Debug\LibraryWebApplication.Migrations.InitialMigration5.resources
+C:\Users\Penka\Desktop\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\obj\Debug\LibraryWebApplication.Migrations.RolesAdd.resources
+C:\Users\Penka\Desktop\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\obj\Debug\LibraryWebApplication.Migrations.Filters.resources
+C:\Users\Penka\Desktop\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\obj\Debug\LibraryWebApplication.Migrations.Titles.resources
+C:\Users\Penka\Desktop\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\obj\Debug\LibraryWebApplication.csproj.GenerateResource.cache
+C:\Users\Penka\Desktop\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\obj\Debug\LibraryWebApplication.csproj.CoreCompileInputs.cache
+C:\Users\Penka\Desktop\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\obj\Debug\LibraryWebApplication.csproj.CopyComplete
+C:\Users\Penka\Desktop\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\obj\Debug\LibraryWebApplication.dll
+C:\Users\Penka\Desktop\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\obj\Debug\LibraryWebApplication.pdb
+C:\Users\Penka\Desktop\Уни\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Penka\Desktop\Уни\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Penka\Desktop\Уни\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\LibraryWebApplication.dll.config
+C:\Users\Penka\Desktop\Уни\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\LibraryWebApplication.dll
+C:\Users\Penka\Desktop\Уни\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\LibraryWebApplication.pdb
+C:\Users\Penka\Desktop\Уни\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\roslyn\csc.exe
+C:\Users\Penka\Desktop\Уни\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\roslyn\csc.exe.config
+C:\Users\Penka\Desktop\Уни\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\roslyn\csc.rsp
+C:\Users\Penka\Desktop\Уни\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\roslyn\csi.exe
+C:\Users\Penka\Desktop\Уни\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\roslyn\csi.exe.config
+C:\Users\Penka\Desktop\Уни\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\roslyn\csi.rsp
+C:\Users\Penka\Desktop\Уни\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Penka\Desktop\Уни\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Penka\Desktop\Уни\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Penka\Desktop\Уни\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Penka\Desktop\Уни\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Penka\Desktop\Уни\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Penka\Desktop\Уни\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Penka\Desktop\Уни\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Penka\Desktop\Уни\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Penka\Desktop\Уни\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Penka\Desktop\Уни\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Penka\Desktop\Уни\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\roslyn\System.AppContext.dll
+C:\Users\Penka\Desktop\Уни\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Penka\Desktop\Уни\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\roslyn\System.Console.dll
+C:\Users\Penka\Desktop\Уни\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Penka\Desktop\Уни\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Penka\Desktop\Уни\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\roslyn\System.IO.Compression.dll
+C:\Users\Penka\Desktop\Уни\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Penka\Desktop\Уни\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Penka\Desktop\Уни\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Penka\Desktop\Уни\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Penka\Desktop\Уни\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Penka\Desktop\Уни\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Penka\Desktop\Уни\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\roslyn\System.Security.Claims.dll
+C:\Users\Penka\Desktop\Уни\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Penka\Desktop\Уни\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Penka\Desktop\Уни\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Penka\Desktop\Уни\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Penka\Desktop\Уни\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Penka\Desktop\Уни\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Penka\Desktop\Уни\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\roslyn\System.ValueTuple.dll
+C:\Users\Penka\Desktop\Уни\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Penka\Desktop\Уни\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Penka\Desktop\Уни\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Penka\Desktop\Уни\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Penka\Desktop\Уни\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\roslyn\vbc.exe
+C:\Users\Penka\Desktop\Уни\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\roslyn\vbc.exe.config
+C:\Users\Penka\Desktop\Уни\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\roslyn\vbc.rsp
+C:\Users\Penka\Desktop\Уни\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\roslyn\VBCSCompiler.exe
+C:\Users\Penka\Desktop\Уни\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Penka\Desktop\Уни\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\Microsoft.Win32.Primitives.dll
+C:\Users\Penka\Desktop\Уни\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\netstandard.dll
+C:\Users\Penka\Desktop\Уни\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\System.AppContext.dll
+C:\Users\Penka\Desktop\Уни\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\System.Collections.Concurrent.dll
+C:\Users\Penka\Desktop\Уни\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\System.Collections.dll
+C:\Users\Penka\Desktop\Уни\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\System.Collections.NonGeneric.dll
+C:\Users\Penka\Desktop\Уни\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\System.Collections.Specialized.dll
+C:\Users\Penka\Desktop\Уни\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\System.ComponentModel.dll
+C:\Users\Penka\Desktop\Уни\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\System.ComponentModel.EventBasedAsync.dll
+C:\Users\Penka\Desktop\Уни\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\System.ComponentModel.Primitives.dll
+C:\Users\Penka\Desktop\Уни\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\System.ComponentModel.TypeConverter.dll
+C:\Users\Penka\Desktop\Уни\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\System.Console.dll
+C:\Users\Penka\Desktop\Уни\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\System.Data.Common.dll
+C:\Users\Penka\Desktop\Уни\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\System.Diagnostics.Contracts.dll
+C:\Users\Penka\Desktop\Уни\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\System.Diagnostics.Debug.dll
+C:\Users\Penka\Desktop\Уни\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Penka\Desktop\Уни\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\System.Diagnostics.Process.dll
+C:\Users\Penka\Desktop\Уни\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\System.Diagnostics.StackTrace.dll
+C:\Users\Penka\Desktop\Уни\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\Penka\Desktop\Уни\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\System.Diagnostics.Tools.dll
+C:\Users\Penka\Desktop\Уни\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\System.Diagnostics.TraceSource.dll
+C:\Users\Penka\Desktop\Уни\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\System.Diagnostics.Tracing.dll
+C:\Users\Penka\Desktop\Уни\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\System.Drawing.Primitives.dll
+C:\Users\Penka\Desktop\Уни\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\System.Dynamic.Runtime.dll
+C:\Users\Penka\Desktop\Уни\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\System.Globalization.Calendars.dll
+C:\Users\Penka\Desktop\Уни\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\System.Globalization.dll
+C:\Users\Penka\Desktop\Уни\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\System.Globalization.Extensions.dll
+C:\Users\Penka\Desktop\Уни\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\System.IO.Compression.dll
+C:\Users\Penka\Desktop\Уни\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\System.IO.Compression.ZipFile.dll
+C:\Users\Penka\Desktop\Уни\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\System.IO.dll
+C:\Users\Penka\Desktop\Уни\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\System.IO.FileSystem.dll
+C:\Users\Penka\Desktop\Уни\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Penka\Desktop\Уни\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\System.IO.FileSystem.Primitives.dll
+C:\Users\Penka\Desktop\Уни\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\System.IO.FileSystem.Watcher.dll
+C:\Users\Penka\Desktop\Уни\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\System.IO.IsolatedStorage.dll
+C:\Users\Penka\Desktop\Уни\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\System.IO.MemoryMappedFiles.dll
+C:\Users\Penka\Desktop\Уни\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\System.IO.Pipes.dll
+C:\Users\Penka\Desktop\Уни\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\System.IO.UnmanagedMemoryStream.dll
+C:\Users\Penka\Desktop\Уни\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\System.Linq.dll
+C:\Users\Penka\Desktop\Уни\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\System.Linq.Expressions.dll
+C:\Users\Penka\Desktop\Уни\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\System.Linq.Parallel.dll
+C:\Users\Penka\Desktop\Уни\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\System.Linq.Queryable.dll
+C:\Users\Penka\Desktop\Уни\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\System.Net.Http.dll
+C:\Users\Penka\Desktop\Уни\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\System.Net.NameResolution.dll
+C:\Users\Penka\Desktop\Уни\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\System.Net.NetworkInformation.dll
+C:\Users\Penka\Desktop\Уни\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\System.Net.Ping.dll
+C:\Users\Penka\Desktop\Уни\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\System.Net.Primitives.dll
+C:\Users\Penka\Desktop\Уни\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\System.Net.Requests.dll
+C:\Users\Penka\Desktop\Уни\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\System.Net.Security.dll
+C:\Users\Penka\Desktop\Уни\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\System.Net.Sockets.dll
+C:\Users\Penka\Desktop\Уни\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\System.Net.WebHeaderCollection.dll
+C:\Users\Penka\Desktop\Уни\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\System.Net.WebSockets.Client.dll
+C:\Users\Penka\Desktop\Уни\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\System.Net.WebSockets.dll
+C:\Users\Penka\Desktop\Уни\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\System.ObjectModel.dll
+C:\Users\Penka\Desktop\Уни\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\System.Reflection.dll
+C:\Users\Penka\Desktop\Уни\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\System.Reflection.Extensions.dll
+C:\Users\Penka\Desktop\Уни\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\System.Reflection.Primitives.dll
+C:\Users\Penka\Desktop\Уни\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\System.Resources.Reader.dll
+C:\Users\Penka\Desktop\Уни\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\System.Resources.ResourceManager.dll
+C:\Users\Penka\Desktop\Уни\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\System.Resources.Writer.dll
+C:\Users\Penka\Desktop\Уни\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\Penka\Desktop\Уни\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\System.Runtime.dll
+C:\Users\Penka\Desktop\Уни\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\System.Runtime.Extensions.dll
+C:\Users\Penka\Desktop\Уни\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\System.Runtime.Handles.dll
+C:\Users\Penka\Desktop\Уни\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\System.Runtime.InteropServices.dll
+C:\Users\Penka\Desktop\Уни\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Penka\Desktop\Уни\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\System.Runtime.Numerics.dll
+C:\Users\Penka\Desktop\Уни\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\System.Runtime.Serialization.Formatters.dll
+C:\Users\Penka\Desktop\Уни\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\System.Runtime.Serialization.Json.dll
+C:\Users\Penka\Desktop\Уни\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\System.Runtime.Serialization.Primitives.dll
+C:\Users\Penka\Desktop\Уни\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\System.Runtime.Serialization.Xml.dll
+C:\Users\Penka\Desktop\Уни\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\System.Security.Claims.dll
+C:\Users\Penka\Desktop\Уни\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\System.Security.Cryptography.Algorithms.dll
+C:\Users\Penka\Desktop\Уни\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\System.Security.Cryptography.Csp.dll
+C:\Users\Penka\Desktop\Уни\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\System.Security.Cryptography.Encoding.dll
+C:\Users\Penka\Desktop\Уни\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\System.Security.Cryptography.Primitives.dll
+C:\Users\Penka\Desktop\Уни\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Penka\Desktop\Уни\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\System.Security.Principal.dll
+C:\Users\Penka\Desktop\Уни\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\System.Security.SecureString.dll
+C:\Users\Penka\Desktop\Уни\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\System.Text.Encoding.dll
+C:\Users\Penka\Desktop\Уни\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\System.Text.Encoding.Extensions.dll
+C:\Users\Penka\Desktop\Уни\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\System.Text.RegularExpressions.dll
+C:\Users\Penka\Desktop\Уни\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\System.Threading.dll
+C:\Users\Penka\Desktop\Уни\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\System.Threading.Overlapped.dll
+C:\Users\Penka\Desktop\Уни\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\System.Threading.Tasks.dll
+C:\Users\Penka\Desktop\Уни\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\System.Threading.Tasks.Parallel.dll
+C:\Users\Penka\Desktop\Уни\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\System.Threading.Thread.dll
+C:\Users\Penka\Desktop\Уни\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\System.Threading.ThreadPool.dll
+C:\Users\Penka\Desktop\Уни\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\System.Threading.Timer.dll
+C:\Users\Penka\Desktop\Уни\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\System.ValueTuple.dll
+C:\Users\Penka\Desktop\Уни\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\System.Xml.ReaderWriter.dll
+C:\Users\Penka\Desktop\Уни\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\System.Xml.XDocument.dll
+C:\Users\Penka\Desktop\Уни\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\System.Xml.XmlDocument.dll
+C:\Users\Penka\Desktop\Уни\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\System.Xml.XmlSerializer.dll
+C:\Users\Penka\Desktop\Уни\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\System.Xml.XPath.dll
+C:\Users\Penka\Desktop\Уни\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\System.Xml.XPath.XDocument.dll
+C:\Users\Penka\Desktop\Уни\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\Antlr3.Runtime.dll
+C:\Users\Penka\Desktop\Уни\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\EntityFramework.dll
+C:\Users\Penka\Desktop\Уни\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\EntityFramework.SqlServer.dll
+C:\Users\Penka\Desktop\Уни\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Penka\Desktop\Уни\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Penka\Desktop\Уни\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Penka\Desktop\Уни\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\Microsoft.AspNetCore.Antiforgery.dll
+C:\Users\Penka\Desktop\Уни\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\Microsoft.AspNetCore.Authentication.Abstractions.dll
+C:\Users\Penka\Desktop\Уни\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\Microsoft.AspNetCore.Authentication.Core.dll
+C:\Users\Penka\Desktop\Уни\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\Microsoft.AspNetCore.Authorization.dll
+C:\Users\Penka\Desktop\Уни\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\Microsoft.AspNetCore.Authorization.Policy.dll
+C:\Users\Penka\Desktop\Уни\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\Microsoft.AspNetCore.Cors.dll
+C:\Users\Penka\Desktop\Уни\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\Penka\Desktop\Уни\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+C:\Users\Penka\Desktop\Уни\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\Microsoft.AspNetCore.DataProtection.dll
+C:\Users\Penka\Desktop\Уни\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+C:\Users\Penka\Desktop\Уни\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\Microsoft.AspNetCore.Hosting.Abstractions.dll
+C:\Users\Penka\Desktop\Уни\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+C:\Users\Penka\Desktop\Уни\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\Microsoft.AspNetCore.Html.Abstractions.dll
+C:\Users\Penka\Desktop\Уни\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\Microsoft.AspNetCore.Http.Abstractions.dll
+C:\Users\Penka\Desktop\Уни\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\Microsoft.AspNetCore.Http.dll
+C:\Users\Penka\Desktop\Уни\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\Microsoft.AspNetCore.Http.Extensions.dll
+C:\Users\Penka\Desktop\Уни\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\Penka\Desktop\Уни\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\Penka\Desktop\Уни\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\Microsoft.AspNetCore.Localization.dll
+C:\Users\Penka\Desktop\Уни\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\Microsoft.AspNetCore.Mvc.Abstractions.dll
+C:\Users\Penka\Desktop\Уни\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\Microsoft.AspNetCore.Mvc.ApiExplorer.dll
+C:\Users\Penka\Desktop\Уни\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\Microsoft.AspNetCore.Mvc.Core.dll
+C:\Users\Penka\Desktop\Уни\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\Microsoft.AspNetCore.Mvc.Cors.dll
+C:\Users\Penka\Desktop\Уни\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+C:\Users\Penka\Desktop\Уни\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\Microsoft.AspNetCore.Mvc.dll
+C:\Users\Penka\Desktop\Уни\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+C:\Users\Penka\Desktop\Уни\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\Microsoft.AspNetCore.Mvc.Localization.dll
+C:\Users\Penka\Desktop\Уни\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\Microsoft.AspNetCore.Mvc.Razor.dll
+C:\Users\Penka\Desktop\Уни\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+C:\Users\Penka\Desktop\Уни\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\Microsoft.AspNetCore.Mvc.RazorPages.dll
+C:\Users\Penka\Desktop\Уни\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\Microsoft.AspNetCore.Mvc.TagHelpers.dll
+C:\Users\Penka\Desktop\Уни\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+C:\Users\Penka\Desktop\Уни\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\Microsoft.AspNetCore.Razor.dll
+C:\Users\Penka\Desktop\Уни\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Penka\Desktop\Уни\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\Microsoft.AspNetCore.Razor.Runtime.dll
+C:\Users\Penka\Desktop\Уни\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+C:\Users\Penka\Desktop\Уни\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\Microsoft.AspNetCore.Routing.Abstractions.dll
+C:\Users\Penka\Desktop\Уни\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\Microsoft.AspNetCore.Routing.dll
+C:\Users\Penka\Desktop\Уни\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\Microsoft.AspNetCore.WebUtilities.dll
+C:\Users\Penka\Desktop\Уни\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Penka\Desktop\Уни\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\Microsoft.CodeAnalysis.dll
+C:\Users\Penka\Desktop\Уни\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Penka\Desktop\Уни\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Penka\Desktop\Уни\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\Penka\Desktop\Уни\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Penka\Desktop\Уни\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Penka\Desktop\Уни\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Penka\Desktop\Уни\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Penka\Desktop\Уни\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Penka\Desktop\Уни\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Penka\Desktop\Уни\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\Penka\Desktop\Уни\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\Microsoft.Extensions.FileProviders.Composite.dll
+C:\Users\Penka\Desktop\Уни\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\Penka\Desktop\Уни\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\Penka\Desktop\Уни\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\Microsoft.Extensions.Localization.Abstractions.dll
+C:\Users\Penka\Desktop\Уни\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\Microsoft.Extensions.Localization.dll
+C:\Users\Penka\Desktop\Уни\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Penka\Desktop\Уни\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\Microsoft.Extensions.ObjectPool.dll
+C:\Users\Penka\Desktop\Уни\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\Microsoft.Extensions.Options.dll
+C:\Users\Penka\Desktop\Уни\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\Microsoft.Extensions.Primitives.dll
+C:\Users\Penka\Desktop\Уни\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\Microsoft.Extensions.WebEncoders.dll
+C:\Users\Penka\Desktop\Уни\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\Microsoft.Net.Http.Headers.dll
+C:\Users\Penka\Desktop\Уни\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\Microsoft.Owin.dll
+C:\Users\Penka\Desktop\Уни\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Penka\Desktop\Уни\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Penka\Desktop\Уни\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\Microsoft.Owin.Security.dll
+C:\Users\Penka\Desktop\Уни\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Penka\Desktop\Уни\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Penka\Desktop\Уни\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Penka\Desktop\Уни\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Penka\Desktop\Уни\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Penka\Desktop\Уни\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Penka\Desktop\Уни\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\Microsoft.Win32.Registry.dll
+C:\Users\Penka\Desktop\Уни\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\Newtonsoft.Json.Bson.dll
+C:\Users\Penka\Desktop\Уни\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\Newtonsoft.Json.dll
+C:\Users\Penka\Desktop\Уни\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\Owin.dll
+C:\Users\Penka\Desktop\Уни\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\System.Buffers.dll
+C:\Users\Penka\Desktop\Уни\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\System.Collections.Immutable.dll
+C:\Users\Penka\Desktop\Уни\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\System.ComponentModel.Annotations.dll
+C:\Users\Penka\Desktop\Уни\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Penka\Desktop\Уни\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\System.Memory.dll
+C:\Users\Penka\Desktop\Уни\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\System.Numerics.Vectors.dll
+C:\Users\Penka\Desktop\Уни\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\System.Reflection.Metadata.dll
+C:\Users\Penka\Desktop\Уни\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Penka\Desktop\Уни\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\System.Security.AccessControl.dll
+C:\Users\Penka\Desktop\Уни\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\System.Security.Cryptography.Xml.dll
+C:\Users\Penka\Desktop\Уни\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\System.Security.Permissions.dll
+C:\Users\Penka\Desktop\Уни\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\System.Security.Principal.Windows.dll
+C:\Users\Penka\Desktop\Уни\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\System.Text.Encoding.CodePages.dll
+C:\Users\Penka\Desktop\Уни\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\System.Text.Encodings.Web.dll
+C:\Users\Penka\Desktop\Уни\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\Penka\Desktop\Уни\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\System.Web.Helpers.dll
+C:\Users\Penka\Desktop\Уни\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\System.Web.Mvc.dll
+C:\Users\Penka\Desktop\Уни\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\System.Web.Optimization.dll
+C:\Users\Penka\Desktop\Уни\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\System.Web.Razor.dll
+C:\Users\Penka\Desktop\Уни\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Penka\Desktop\Уни\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\System.Web.WebPages.dll
+C:\Users\Penka\Desktop\Уни\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\System.Web.WebPages.Razor.dll
+C:\Users\Penka\Desktop\Уни\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\WebGrease.dll
+C:\Users\Penka\Desktop\Уни\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\Microsoft.AspNetCore.Antiforgery.xml
+C:\Users\Penka\Desktop\Уни\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\Microsoft.AspNetCore.Authentication.Abstractions.xml
+C:\Users\Penka\Desktop\Уни\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\Microsoft.AspNetCore.Authentication.Core.xml
+C:\Users\Penka\Desktop\Уни\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\Microsoft.AspNetCore.Authorization.xml
+C:\Users\Penka\Desktop\Уни\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\Microsoft.AspNetCore.Authorization.Policy.xml
+C:\Users\Penka\Desktop\Уни\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\Microsoft.AspNetCore.Cors.xml
+C:\Users\Penka\Desktop\Уни\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\Microsoft.AspNetCore.Cryptography.Internal.xml
+C:\Users\Penka\Desktop\Уни\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\Microsoft.AspNetCore.DataProtection.xml
+C:\Users\Penka\Desktop\Уни\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\Microsoft.AspNetCore.DataProtection.Abstractions.xml
+C:\Users\Penka\Desktop\Уни\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\Microsoft.AspNetCore.Diagnostics.Abstractions.xml
+C:\Users\Penka\Desktop\Уни\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\Microsoft.AspNetCore.Hosting.Abstractions.xml
+C:\Users\Penka\Desktop\Уни\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\Microsoft.AspNetCore.Hosting.Server.Abstractions.xml
+C:\Users\Penka\Desktop\Уни\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\Microsoft.AspNetCore.Html.Abstractions.xml
+C:\Users\Penka\Desktop\Уни\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\Microsoft.AspNetCore.Http.xml
+C:\Users\Penka\Desktop\Уни\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\Microsoft.AspNetCore.Http.Abstractions.xml
+C:\Users\Penka\Desktop\Уни\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\Microsoft.AspNetCore.Http.Extensions.xml
+C:\Users\Penka\Desktop\Уни\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\Microsoft.AspNetCore.Http.Features.xml
+C:\Users\Penka\Desktop\Уни\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\Microsoft.AspNetCore.JsonPatch.xml
+C:\Users\Penka\Desktop\Уни\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\Microsoft.AspNetCore.Localization.xml
+C:\Users\Penka\Desktop\Уни\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\Microsoft.AspNetCore.Mvc.xml
+C:\Users\Penka\Desktop\Уни\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\Microsoft.AspNetCore.Mvc.Abstractions.xml
+C:\Users\Penka\Desktop\Уни\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\Microsoft.AspNetCore.Mvc.ApiExplorer.xml
+C:\Users\Penka\Desktop\Уни\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\Microsoft.AspNetCore.Mvc.Core.xml
+C:\Users\Penka\Desktop\Уни\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\Microsoft.AspNetCore.Mvc.Cors.xml
+C:\Users\Penka\Desktop\Уни\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\Microsoft.AspNetCore.Mvc.DataAnnotations.xml
+C:\Users\Penka\Desktop\Уни\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\Microsoft.AspNetCore.Mvc.Formatters.Json.xml
+C:\Users\Penka\Desktop\Уни\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\Microsoft.AspNetCore.Mvc.Localization.xml
+C:\Users\Penka\Desktop\Уни\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\Microsoft.AspNetCore.Mvc.Razor.xml
+C:\Users\Penka\Desktop\Уни\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\Microsoft.AspNetCore.Mvc.Razor.Extensions.xml
+C:\Users\Penka\Desktop\Уни\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\Microsoft.AspNetCore.Mvc.RazorPages.xml
+C:\Users\Penka\Desktop\Уни\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\Microsoft.AspNetCore.Mvc.TagHelpers.xml
+C:\Users\Penka\Desktop\Уни\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\Microsoft.AspNetCore.Mvc.ViewFeatures.xml
+C:\Users\Penka\Desktop\Уни\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\Microsoft.AspNetCore.Razor.xml
+C:\Users\Penka\Desktop\Уни\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\Microsoft.AspNetCore.Razor.Language.xml
+C:\Users\Penka\Desktop\Уни\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\Microsoft.AspNetCore.Razor.Runtime.xml
+C:\Users\Penka\Desktop\Уни\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\Microsoft.AspNetCore.ResponseCaching.Abstractions.xml
+C:\Users\Penka\Desktop\Уни\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\Microsoft.AspNetCore.Routing.xml
+C:\Users\Penka\Desktop\Уни\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\Microsoft.AspNetCore.Routing.Abstractions.xml
+C:\Users\Penka\Desktop\Уни\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\Microsoft.AspNetCore.WebUtilities.xml
+C:\Users\Penka\Desktop\Уни\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\Microsoft.CodeAnalysis.pdb
+C:\Users\Penka\Desktop\Уни\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\Microsoft.CodeAnalysis.xml
+C:\Users\Penka\Desktop\Уни\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\Microsoft.CodeAnalysis.CSharp.pdb
+C:\Users\Penka\Desktop\Уни\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\Microsoft.CodeAnalysis.CSharp.xml
+C:\Users\Penka\Desktop\Уни\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\Microsoft.CodeAnalysis.Razor.xml
+C:\Users\Penka\Desktop\Уни\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\Microsoft.Extensions.Caching.Abstractions.xml
+C:\Users\Penka\Desktop\Уни\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\Microsoft.Extensions.Caching.Memory.xml
+C:\Users\Penka\Desktop\Уни\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\Penka\Desktop\Уни\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\Penka\Desktop\Уни\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\Penka\Desktop\Уни\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\Microsoft.Extensions.FileProviders.Abstractions.xml
+C:\Users\Penka\Desktop\Уни\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\Microsoft.Extensions.FileProviders.Composite.xml
+C:\Users\Penka\Desktop\Уни\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\Microsoft.Extensions.FileSystemGlobbing.xml
+C:\Users\Penka\Desktop\Уни\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\Microsoft.Extensions.Hosting.Abstractions.xml
+C:\Users\Penka\Desktop\Уни\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\Microsoft.Extensions.Localization.xml
+C:\Users\Penka\Desktop\Уни\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\Microsoft.Extensions.Localization.Abstractions.xml
+C:\Users\Penka\Desktop\Уни\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\Penka\Desktop\Уни\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\Microsoft.Extensions.ObjectPool.xml
+C:\Users\Penka\Desktop\Уни\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\Microsoft.Extensions.Options.xml
+C:\Users\Penka\Desktop\Уни\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\Microsoft.Extensions.Primitives.xml
+C:\Users\Penka\Desktop\Уни\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\Microsoft.Extensions.WebEncoders.xml
+C:\Users\Penka\Desktop\Уни\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\Microsoft.Net.Http.Headers.xml
+C:\Users\Penka\Desktop\Уни\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\Newtonsoft.Json.xml
+C:\Users\Penka\Desktop\Уни\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\Newtonsoft.Json.Bson.xml
+C:\Users\Penka\Desktop\Уни\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\System.Buffers.xml
+C:\Users\Penka\Desktop\Уни\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\System.Collections.Immutable.xml
+C:\Users\Penka\Desktop\Уни\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Penka\Desktop\Уни\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\System.Memory.xml
+C:\Users\Penka\Desktop\Уни\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\System.Numerics.Vectors.xml
+C:\Users\Penka\Desktop\Уни\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\System.Reflection.Metadata.xml
+C:\Users\Penka\Desktop\Уни\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Penka\Desktop\Уни\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\System.Text.Encodings.Web.xml
+C:\Users\Penka\Desktop\Уни\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\Penka\Desktop\Уни\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\System.Web.Helpers.xml
+C:\Users\Penka\Desktop\Уни\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\System.Web.Mvc.xml
+C:\Users\Penka\Desktop\Уни\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\System.Web.Optimization.xml
+C:\Users\Penka\Desktop\Уни\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\System.Web.Razor.xml
+C:\Users\Penka\Desktop\Уни\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\System.Web.WebPages.xml
+C:\Users\Penka\Desktop\Уни\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Penka\Desktop\Уни\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\System.Web.WebPages.Razor.xml
+C:\Users\Penka\Desktop\Уни\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\Antlr3.Runtime.pdb
+C:\Users\Penka\Desktop\Уни\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\EntityFramework.xml
+C:\Users\Penka\Desktop\Уни\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\EntityFramework.SqlServer.xml
+C:\Users\Penka\Desktop\Уни\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Penka\Desktop\Уни\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Penka\Desktop\Уни\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Penka\Desktop\Уни\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\Microsoft.Owin.xml
+C:\Users\Penka\Desktop\Уни\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Penka\Desktop\Уни\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\Microsoft.Owin.Security.xml
+C:\Users\Penka\Desktop\Уни\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Penka\Desktop\Уни\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Penka\Desktop\Уни\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Penka\Desktop\Уни\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Penka\Desktop\Уни\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Penka\Desktop\Уни\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Penka\Desktop\Уни\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Penka\Desktop\Уни\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\obj\Debug\LibraryWebApplication.csproj.AssemblyReference.cache
+C:\Users\Penka\Desktop\Уни\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\obj\Debug\LibraryWebApplication.Migrations.InitialMigration.resources
+C:\Users\Penka\Desktop\Уни\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\obj\Debug\LibraryWebApplication.Migrations.InitialMigration1.resources
+C:\Users\Penka\Desktop\Уни\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\obj\Debug\LibraryWebApplication.Migrations.InitialMigration2.resources
+C:\Users\Penka\Desktop\Уни\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\obj\Debug\LibraryWebApplication.Migrations.InitialMigration3.resources
+C:\Users\Penka\Desktop\Уни\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\obj\Debug\LibraryWebApplication.Migrations.InitialMigration4.resources
+C:\Users\Penka\Desktop\Уни\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\obj\Debug\LibraryWebApplication.Migrations.InitialMigration5.resources
+C:\Users\Penka\Desktop\Уни\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\obj\Debug\LibraryWebApplication.Migrations.RolesAdd.resources
+C:\Users\Penka\Desktop\Уни\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\obj\Debug\LibraryWebApplication.Migrations.Filters.resources
+C:\Users\Penka\Desktop\Уни\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\obj\Debug\LibraryWebApplication.Migrations.Titles.resources
+C:\Users\Penka\Desktop\Уни\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\obj\Debug\LibraryWebApplication.csproj.GenerateResource.cache
+C:\Users\Penka\Desktop\Уни\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\obj\Debug\LibraryWebApplication.csproj.CoreCompileInputs.cache
+C:\Users\Penka\Desktop\Уни\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\obj\Debug\LibraryWebApplication.csproj.CopyComplete
+C:\Users\Penka\Desktop\Уни\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\obj\Debug\LibraryWebApplication.dll
+C:\Users\Penka\Desktop\Уни\III - ти курс\I - ви триместър\Разпределени приложения\LibraryWebApplication\LibraryWebApplication\obj\Debug\LibraryWebApplication.pdb

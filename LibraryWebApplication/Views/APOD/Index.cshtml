@@ -1,0 +1,32 @@
+﻿@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Астрономическа снимка на деня от NASA</h2>
+
+@using (Html.BeginForm())
+{
+    <p>
+        @Html.TextBox("date", "{0:yyyy-MM-dd}", new { @class = "form-control", type = "date" })
+        <input type="submit" value="Потърси" />
+    </p>
+}
+</br>
+<h1>Информация за снимката:</h1>
+
+<p>@ViewData["explanation"]</p>
+</br>
+</br>
+<table class="table">
+    <tr>
+        <th>
+            <p>@ViewData["date"]</p>
+        </th>
+        <th>
+            <img src=@ViewData["url"] alt="Sample Photo" />
+        </th>
+        <th></th>
+    </tr>
+</table>
+
+
